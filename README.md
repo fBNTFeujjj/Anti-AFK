@@ -12,4 +12,4 @@ antiafk.cmd.reload - Allows the use of the /afkreload command. antiafk.bypass - 
 
 afk.time - The maximum time of a player can be idle before being kicked. kick.message - The message displayed to players when they are kicked for being AFK. reload.config.message - The message displayed when the configuration is reloaded. time.zone - The timezone used for calculating idle times.
 
-- Discord : ![Discord](https://img.shields.io/discord/1239607050988818432?label=Discord&logo=discord&color=blue)](https://discord.gg/futonium)
+- Discord : ![Discord](https://img.shields.io/discord/1239607050988818432?label=Discord&logo=discord&color=blue)(https://discord.gg/futonium)
