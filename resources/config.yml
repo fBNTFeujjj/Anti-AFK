@@ -1,0 +1,17 @@
+# Veuillez entrer votre timezone.
+# Exemple : Europe/Paris
+time.zone: "Europe/Paris"
+
+# Veuillez entrer le temps avant que le joueur AFK se fasse expulser :
+# Pour exemple : PT(Number)(Time : H/M/S)
+afk.time: "PT15M"
+
+# Veuillez entrer le message quand un joueur va se faire kick :
+kick.message: "§3[§6AntiAFK§3]§r §l§7» §r§cVous avez été explusé du serveur après être restez AFK 15 minutes !"
+
+# Veuillez entrer le message de succès quand vous allez faire la commande pour reload la config :
+reload.config.message: "§3[§6AntiAFK§3]§r §8» §7La config de l'AntiAFK a été reload !"
+
+
+# NE PAS CHANGER CA !
+version: "1.0.0"
